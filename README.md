@@ -6,5 +6,5 @@ sudo apt install -y git && git clone https://github.com/Apemerson/instalador-tor
 
 ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR ESTE COMANDO PARA SEGUNDA OU MAIS INSTALAÇÃO:
 ```bash
-cd ./instalador  && sudo ./install_instancia
+cd ./instalador-torresticket  && sudo ./install_instancia
 ```
