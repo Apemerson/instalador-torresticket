@@ -36,19 +36,19 @@ print_banner() {
 
   printf "\n"
 
-printf "${CYAN_LIGHT}";
+printf "${GREEN}";
 
 
-printf ${CYAN_LIGHT}" ★彡[̲V̲̲A̲̲M̲̲O̲̲S̲ ̲C̲̲O̲̲M̲̲E̲Ç̲A̲̲R̲!!!]彡★\n\n";
-printf ${CYAN_LIGHT}"          ░▄░█░░░▄▀▀▀▀▀▄░░░█░▄░\n";
-printf ${CYAN_LIGHT}"          ▄▄▀▄░░░█─▀─▀─█░░░▄▀▄▄\n";
-printf ${CYAN_LIGHT}"          ░░░░▀▄▒▒▒▒▒▒▒▒▒▄▀░░░░\n";
-printf ${CYAN_LIGHT}"          ░░░░░█────▀────█░░░░░\n";
-printf ${CYAN_LIGHT}"          ░░░░░█────▀────█░░░░░\n\n";
-printf ${CYAN_LIGHT}"       ★★★★彡ＴＯＲＲＥＳ彡★★★★\n";
+printf ${GREEN}" ★彡[̲V̲̲A̲̲M̲̲O̲̲S̲ ̲C̲̲O̲̲M̲̲E̲Ç̲A̲̲R̲!!!]彡★\n\n";
+printf ${GREEN}"          ░▄░█░░░▄▀▀▀▀▀▄░░░█░▄░\n";
+printf ${GREEN}"          ▄▄▀▄░░░█─▀─▀─█░░░▄▀▄▄\n";
+printf ${GREEN}"          ░░░░▀▄▒▒▒▒▒▒▒▒▒▄▀░░░░\n";
+printf ${GREEN}"          ░░░░░█────▀────█░░░░░\n";
+printf ${GREEN}"          ░░░░░█────▀────█░░░░░\n\n";
+printf ${GREEN}"       ★★★★彡ＴＯＲＲＥＳ彡★★★★\n";
                                                                                                                                                          
-  printf " \033[1;33m © Torres - https://www.emersontorres.com.br \n";
-  printf "${NC}";
+printf ${GREEN} " \033[1;33m © Torres - https://www.emersontorres.com.br \n";
+printf "${NC}";
 
 
 
